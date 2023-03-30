@@ -24,7 +24,7 @@ include("renthead.php");
     <p class="card-text">rent for:2 months</p>
     <button type="submit" name="Add_To_Cart" class="btn btn-info">Add To Cart</button> 
     <input type="hidden" name="Item_Name" value="Acoustic">
-    <input type="hidden" name="price" value="4000">
+    <input type="hidden" name="price" value="400">
   </div> 
 </div>
 </form>
@@ -39,7 +39,7 @@ include("renthead.php");
     <p class="card-text">rent for:2 months</p>
     <button type="submit"  name="Add_To_Cart"class="btn btn-info">Add To Cart</button> 
     <input type="hidden" name="Item_Name" value="Alto">
-    <input type="hidden" name="price" value="6000">
+    <input type="hidden" name="price" value="600">
   </div> 
 </div>
 </form>
@@ -55,7 +55,7 @@ include("renthead.php");
 
     <button type="submit" name="Add_To_Cart"class="btn btn-info">Add To Cart</button> 
     <input type="hidden" name="Item_Name" value="Altosaxo">
-    <input type="hidden" name="price" value="4500">
+    <input type="hidden" name="price" value="450">
   </div> 
 </div>
 </form>
@@ -80,7 +80,7 @@ include("renthead.php");
 
     <button type="submit" name="Add_To_Cart" class="btn btn-info">Add To Cart</button> 
     <input type="hidden" name="Item_Name" value="Baritone">
-    <input type="hidden" name="price" value="4000">
+    <input type="hidden" name="price" value="400">
   </div> 
 </div>
 </form>
@@ -96,7 +96,7 @@ include("renthead.php");
 
     <button type="submit"  name="Add_To_Cart"class="btn btn-info">Add To Cart</button> 
     <input type="hidden" name="Item_Name" value="Bass">
-    <input type="hidden" name="price" value="6000">
+    <input type="hidden" name="price" value="600">
   </div> 
 </div>
 </form>
@@ -112,7 +112,7 @@ include("renthead.php");
 
     <button type="submit" name="Add_To_Cart"class="btn btn-info">Add To Cart</button> 
     <input type="hidden" name="Item_Name" value="Concerte">
-    <input type="hidden" name="price" value="4500">
+    <input type="hidden" name="price" value="450">
   </div> 
 </div>
 </form>
@@ -137,7 +137,7 @@ include("renthead.php");
 
     <button type="submit" name="Add_To_Cart" class="btn btn-info">Add To Cart</button> 
     <input type="hidden" name="Item_Name" value="Digitial">
-    <input type="hidden" name="price" value="4000">
+    <input type="hidden" name="price" value="400">
   </div> 
 </div>
 </form>
@@ -153,7 +153,7 @@ include("renthead.php");
 
     <button type="submit"  name="Add_To_Cart"class="btn btn-info">Add To Cart</button> 
     <input type="hidden" name="Item_Name" value="Electric">
-    <input type="hidden" name="price" value="6000">
+    <input type="hidden" name="price" value="600">
   </div> 
 </div>
 </form>
@@ -169,7 +169,7 @@ include("renthead.php");
 
     <button type="submit" name="Add_To_Cart"class="btn btn-info">Add To Cart</button> 
     <input type="hidden" name="Item_Name" value="Electro2">
-    <input type="hidden" name="price" value="4500">
+    <input type="hidden" name="price" value="450">
   </div> 
 </div>
 </form>
@@ -194,7 +194,7 @@ include("renthead.php");
 
     <button type="submit" name="Add_To_Cart" class="btn btn-info">Add To Cart</button> 
     <input type="hidden" name="Item_Name" value="Eleviolin">
-    <input type="hidden" name="price" value="4000">
+    <input type="hidden" name="price" value="400">
   </div> 
 </div>
 </form>
@@ -210,7 +210,7 @@ include("renthead.php");
 
     <button type="submit"  name="Add_To_Cart"class="btn btn-info">Add To Cart</button> 
     <input type="hidden" name="Item_Name" value="Grand Piano">
-    <input type="hidden" name="price" value="6000">
+    <input type="hidden" name="price" value="600">
   </div> 
 </div>
 </form>
@@ -226,7 +226,7 @@ include("renthead.php");
 
     <button type="submit" name="Add_To_Cart"class="btn btn-info">Add To Cart</button> 
     <input type="hidden" name="Item_Name" value="Piccolo">
-    <input type="hidden" name="price" value="4500">
+    <input type="hidden" name="price" value="450">
   </div> 
 </div>
 </form>
@@ -251,7 +251,7 @@ include("renthead.php");
 
     <button type="submit" name="Add_To_Cart" class="btn btn-info">Add To Cart</button> 
     <input type="hidden" name="Item_Name" value="Plastic">
-    <input type="hidden" name="price" value="4000">
+    <input type="hidden" name="price" value="400">
   </div> 
 </div>
 </form>
@@ -267,7 +267,7 @@ include("renthead.php");
 
     <button type="submit"  name="Add_To_Cart"class="btn btn-info">Add To Cart</button> 
     <input type="hidden" name="Item_Name" value="Semi">
-    <input type="hidden" name="price" value="6000">
+    <input type="hidden" name="price" value="600">
   </div> 
 </div>
 </form>
@@ -283,7 +283,7 @@ include("renthead.php");
 
     <button type="submit" name="Add_To_Cart"class="btn btn-info">Add To Cart</button> 
     <input type="hidden" name="Item_Name" value="Soprano">
-    <input type="hidden" name="price" value="4500">
+    <input type="hidden" name="price" value="450">
   </div> 
 </div>
 </form>
@@ -308,7 +308,7 @@ include("renthead.php");
 
     <button type="submit" name="Add_To_Cart" class="btn btn-info">Add To Cart</button> 
     <input type="hidden" name="Item_Name" value="Tenor">
-    <input type="hidden" name="price" value="4000">
+    <input type="hidden" name="price" value="400">
   </div> 
 </div>
 </form>
@@ -319,10 +319,10 @@ include("renthead.php");
   <img src="images/upright.jpg" class="card-img-top" alt="...">
   <div class="card-body text-center">
     <h5 class="card-title">Upright</h5>
-    <p class="card-text">price: Rs.6000</p>
+    <p class="card-text">price: Rs.600</p>
     <button type="submit"  name="Add_To_Cart"class="btn btn-info">Add To Cart</button> 
     <input type="hidden" name="Item_Name" value="Upright">
-    <input type="hidden" name="price" value="6000">
+    <input type="hidden" name="price" value="600">
   </div> 
 </div>
 </form>
@@ -333,10 +333,10 @@ include("renthead.php");
   <img src="images/wooden.jpg" class="card-img-top" alt="...">
   <div class="card-body text-center">
     <h5 class="card-title">Wooden</h5>
-    <p class="card-text">price: Rs.4500</p>
+    <p class="card-text">price: Rs.450</p>
     <button type="submit" name="Add_To_Cart"class="btn btn-info">Add To Cart</button> 
     <input type="hidden" name="Item_Name" value="Wooden">
-    <input type="hidden" name="price" value="4500">
+    <input type="hidden" name="price" value="450">
   </div> 
 </div>
 </form>
@@ -356,10 +356,10 @@ include("renthead.php");
   <img src="images/acoustic.jpg" class="card-img-top" alt="...">
   <div class="card-body text-center">
     <h5 class="card-title">Card title</h5>
-    <p class="card-text">price: Rs.4000</p>
+    <p class="card-text">price: Rs.400</p>
     <button type="submit" name="Add_To_Cart" class="btn btn-info">Add To Cart</button> 
     <input type="hidden" name="Item_Name" value="Instrument1">
-    <input type="hidden" name="price" value="4000">
+    <input type="hidden" name="price" value="400">
   </div> 
 </div>
 </form>
@@ -370,10 +370,10 @@ include("renthead.php");
   <img src="images/piccolo.jpg" class="card-img-top" alt="...">
   <div class="card-body text-center">
     <h5 class="card-title">Piccolo</h5>
-    <p class="card-text">price: Rs.6000</p>
+    <p class="card-text">price: Rs.600</p>
     <button type="submit"  name="Add_To_Cart"class="btn btn-info">Add To Cart</button> 
     <input type="hidden" name="Item_Name" value="piccolo">
-    <input type="hidden" name="price" value="6000">
+    <input type="hidden" name="price" value="600">
   </div> 
 </div>
 </form>
@@ -384,10 +384,10 @@ include("renthead.php");
   <img src="images/alto.jpg" class="card-img-top" alt="...">
   <div class="card-body text-center">
     <h5 class="card-title">Alto</h5>
-    <p class="card-text">price: Rs.4500</p>
+    <p class="card-text">price: Rs.450</p>
     <button type="submit" name="Add_To_Cart"class="btn btn-info">Add To Cart</button> 
     <input type="hidden" name="Item_Name" value="alto">
-    <input type="hidden" name="price" value="4500">
+    <input type="hidden" name="price" value="450">
   </div> 
 </div>
 </form>
